@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterserify",
+        "uuid": 4987620,
+        "checksum": "hocg09"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
